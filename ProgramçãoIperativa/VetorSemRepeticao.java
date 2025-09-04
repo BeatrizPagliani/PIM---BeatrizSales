@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VetorSemRepeticaoForDoWhile {
+public class VetorSemRepeticao{
 
     public static int buscaSequencial(int[] v, int tam, int x) {
         for (int i = 0; i < tam; i++) {
